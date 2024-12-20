@@ -6,8 +6,10 @@ LAFVIN Basic Starter Kit For Esp32 S3
 
    about_this_kit
    component_list
-   preparation/preparation
-   1.C_Tutorial/c_tutorial
-   2.Python_Tutorial/python_tutorial
-   components_Kit/Components_Kit
+   step_1:assembly_tutorial
+   step_2:install_arduino_ide
+   step_3:install_driver
+   step_4:upload_arduino_main_code
+   step_5:infrared_remote_control_car
+   step_6:app_control_smart_car
 
